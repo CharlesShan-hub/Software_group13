@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"controller","l":"UserInfomationUI"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();
